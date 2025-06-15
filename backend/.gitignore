@@ -1,0 +1,12 @@
+# Build output
+/target/
+
+# Secrets
+.env
+
+# IDEs
+*.iml
+.idea/
+*.classpath
+.project
+.settings/

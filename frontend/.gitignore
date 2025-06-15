@@ -1,0 +1,4 @@
+# Frontend Git Ignore
+node_modules/
+build/
+.env
