@@ -9,5 +9,6 @@
 /dataSources/
 /dataSources.local.xml
 
+# IDE-specific folders
 .idea/
 .metadata/
